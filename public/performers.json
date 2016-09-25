@@ -1,0 +1,181 @@
+{
+        "performers":
+        [
+                {
+                        "name": "Bad Ukes",
+                        "day": "Saturday",
+                        "timestart": "1.30",
+                        "timeend": "2.00",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Ruff John",
+                        "day": "Saturday",
+                        "timestart": "2.15",
+                        "timeend": "2.45",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Pete Wiseman",
+                        "day": "Saturday",
+                        "timestart": "3.00",
+                        "timeend": "3.30",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Jimmy Bullet & The Worn Out Shoes",
+                        "day": "Saturday",
+                        "timestart": "3.45",
+                        "timeend": "4.15",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Dulcetones",
+                        "day": "Saturday",
+                        "timestart": "4.30",
+                        "timeend": "4.50",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Mim",
+                        "day": "Saturday",
+                        "timestart": "5.05",
+                        "timeend": "5.25",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Joe Barber",
+                        "day": "Saturday",
+                        "timestart": "5.25",
+                        "timeend": "5.45",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Broken Ears",
+                        "day": "Saturday",
+                        "timestart": "6.00",
+                        "timeend": "6.30",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Cattle & Roll",
+                        "day": "Saturday",
+                        "timestart": "6.45",
+                        "timeend": "7.15",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Tearin' Up Jake",
+                        "day": "Saturday",
+                        "timestart": "7.30",
+                        "timeend": "8.00",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Romain Axisa",
+                        "day": "Saturday",
+                        "timestart": "8.15",
+                        "timeend": "8.35",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Roman",
+                        "day": "Saturday",
+                        "timestart": "8.50",
+                        "timeend": "9.20",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "The Decadent Dayze",
+                        "day": "Saturday",
+                        "timestart": "9.35",
+                        "timeend": "10.05",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "The Sway",
+                        "day": "Saturday",
+                        "timestart": "10.20",
+                        "timeend": "11.00",
+                        "facebookuserid": "622319484548176",
+                        "image": "the-sway-live.jpg"
+                },
+                {
+                        "name": "Tezza & Co",
+                        "day": "Sunday",
+                        "timestart": "1.30",
+                        "timeend": "2.00",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Lou Myhill",
+                        "day": "Sunday",
+                        "timestart": "2.15",
+                        "timeend": "2.45",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Bond of Union",
+                        "day": "Sunday",
+                        "timestart": "3.00",
+                        "timeend": "3.30",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Pamela",
+                        "day": "Sunday",
+                        "timestart": "3.45",
+                        "timeend": "4.15",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Chris Drew",
+                        "day": "Sunday",
+                        "timestart": "4.30",
+                        "timeend": "5.00",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Georgia Hazelgrove",
+                        "day": "Sunday",
+                        "timestart": "5.15",
+                        "timeend": "5.45",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Paul Black",
+                        "day": "Sunday",
+                        "timestart": "6.00",
+                        "timeend": "6.30",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Tim Boat",
+                        "day": "Sunday",
+                        "timestart": "6.45",
+                        "timeend": "7.15",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "POG",
+                        "day": "Sunday",
+                        "timestart": "7.30",
+                        "timeend": "8.00",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Electric 5",
+                        "day": "Sunday",
+                        "timestart": "8.15",
+                        "timeend": "8.45",
+                        "facebookuserid": ""
+                },
+                {
+                        "name": "Scandomando",
+                        "day": "Sunday",
+                        "timestart": "9.00",
+                        "timeend": "9.45",
+                        "facebookuserid": ""
+                }
+        ]       
+}

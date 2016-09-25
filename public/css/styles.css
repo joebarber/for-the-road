@@ -1,0 +1,16 @@
+body {
+    background-color: #000; 
+    background-image: url('../images/the-road.jpg'); 
+    background-size: contain; 
+    background-position-x: center; 
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin:auto; 
+    max-width:700px; 
+    background-color:#fff; 
+    opacity:0.9; 
+    padding:20px;
+}
+
